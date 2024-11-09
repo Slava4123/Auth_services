@@ -12,7 +12,7 @@ venv/
 env/
 .venv
 .env/
-.idea
+.idea/
 
 # Alembic
 alembic_version.py
