@@ -12,17 +12,10 @@ venv/
 env/
 .venv
 .env/
+.idea
 
-# Логи
-*.log
-# Системные файлы
-.DS_Store
-Thumbs.db
 # Alembic
 alembic_version.py
-# Другие временные файлы
-*.tmp
-*.bak
-*.swp
+
 migrations
 alembic.ini
